@@ -1,13 +1,13 @@
 {
   "TRAIN_NO": "22458",
-  "TRAIN_COACH": "SL",
-  "TRAVEL_DATE": "18/05/2024",
+  "TRAIN_COACH": "EC",
+  "TRAVEL_DATE": "01/06/2024",
   "SOURCE_STATION": "DDN",
   "BOARDING_STATION": "DDN",
   "DESTINATION_STATION": "ANVT",
-  "TATKAL": true,
+  "TATKAL": false,
   "PREMIUM_TATKAL": false,
-  "UPI_ID_CONFIG": "7982311285@paytm",
+  "UPI_ID_CONFIG": "",
   "PASSENGER_DETAILS": [
     {
       "NAME": "Rakesh sharma",
